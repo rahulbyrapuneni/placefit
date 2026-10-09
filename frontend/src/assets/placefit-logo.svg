@@ -1,0 +1,77 @@
+<svg
+  width="64"
+  height="64"
+  viewBox="0 0 64 64"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <defs>
+    <linearGradient
+      id="pinGradient"
+      x1="10"
+      y1="8"
+      x2="54"
+      y2="56"
+      gradientUnits="userSpaceOnUse"
+    >
+      <stop stop-color="#2E83FF"/>
+      <stop offset="1" stop-color="#14C8A5"/>
+    </linearGradient>
+  </defs>
+
+  <path
+    d="M32 4C20.4 4 11 13.4 11 25C11 40.3 32 59 32 59C32 59 53 40.3 53 25C53 13.4 43.6 4 32 4Z"
+    fill="url(#pinGradient)"
+  />
+
+  <circle
+    cx="32"
+    cy="25"
+    r="13"
+    fill="white"
+    fill-opacity="0.96"
+  />
+
+  <rect
+    x="23"
+    y="28"
+    width="4"
+    height="6"
+    rx="1"
+    fill="#2679F2"
+  />
+
+  <rect
+    x="30"
+    y="23"
+    width="4"
+    height="11"
+    rx="1"
+    fill="#1FA8D8"
+  />
+
+  <rect
+    x="37"
+    y="18"
+    width="4"
+    height="16"
+    rx="1"
+    fill="#18BF98"
+  />
+
+  <path
+    d="M23 24.5L30.5 21L37.5 15.5"
+    stroke="#153E7A"
+    stroke-width="2.2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+
+  <path
+    d="M35.5 15.5H37.5V17.5"
+    stroke="#153E7A"
+    stroke-width="2.2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+</svg>
